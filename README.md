@@ -6,16 +6,16 @@
 
 ## Description
 
-## Practicing with HTML and formatting
+#### Practicing with HTML and formatting
 
-# _Setup_
+## _Setup_
 
-### _View Website in web browser_
+#### _View Website in web browser_
 
-# _Technologies Used_
+## _Technologies Used_
 
 ### _HTML_
 
-# _Legal_
+## _Legal_
 
-### _Copyright 2018 Eric Wolfe Verna Santos_
+#### _Copyright 2018 Eric Wolfe Verna Santos_
